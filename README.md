@@ -1,6 +1,6 @@
-# 别吵醒宝宝 3D · 技术支持 / Privacy
+# 别吵醒宝宝 · 技术支持 / Privacy
 
-GitHub Pages site for the iOS game **Don't Wake the Baby 3D** (`com.xingranxu.babysneak`).
+GitHub Pages site for the iOS game **Don't Wake the Baby** (`com.xingranxu.babysneak`).
 
 - Support: https://thoexxr.github.io/babysneak-3d/
 - Privacy policy: https://thoexxr.github.io/babysneak-3d/privacy.html
